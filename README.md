@@ -1,4 +1,4 @@
-job-application-2014
-====================
+Hae Kyung Im
+-----
 
-job application material
+I am a Researche Assistant Professor at the University of Chicago developing models to sift through vast amounts of genomic data and generate knowledge that can be ultimately translated to improve the health of people. I received my doctoral degree in Statistics from the Department of Statistics at the University of Chicago focusing on spatial and environmental statistics. I also hold MS degrees in Physics and Financial Mathematics. In the spatial statistics area, I developed methods such as a semi-parametrically estimation method of spectral densities from irregularly spaced environmental datasets, a novel approach to efficiently approximate complex large-scale air quality model outputs, and a spatio-temporal approach for interpolating temperatures in the metropolitan Chicago area. Since 2009 I concentrated on biomedical research enabling discoveries through a distinct statistical modeling perspective. My current research focuses on prediction and dissection of complex traits integrating large-scale data from multiple sources. I collaborate actively with large national and international consortia such as Genotype Tissue Expression (GTEx) and T2D-GENES to identify scientific questions that are most pressing.
